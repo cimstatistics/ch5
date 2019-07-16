@@ -1,2 +1,2 @@
-# ch5
-Chapter 5
+# Chapter 5
+## Density Estimation
