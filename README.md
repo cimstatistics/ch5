@@ -5,4 +5,3 @@ In this chapter, methods for density estimation are presented. It is discussed h
 
 The underlying theoretical background of the various methods are explained. All methods are demonstrated with a series of examples and plots. The Old Faithful data set is used for multiple problems. Some of the most important R codes are given. The chapter ends with a short list of problems useful for written exams.
 
-The R codes will be available on December 15. 
